@@ -1,0 +1,6 @@
+import sys
+from collections import defaultdict
+
+a = [1,1,2,1]
+g = {"1":'A', "2":'B'}
+
